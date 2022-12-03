@@ -12,6 +12,7 @@
 .itemCarrusel{
     height: 100%;
     position: relative;
+    background-color: aqua;
 }
 
 .tarjetaCarrusel{
@@ -28,7 +29,7 @@
 }
 
 .flechasCarrusel{
-    position:absolute;
+    position:absolute;`
     top: 0;
     height: 100%;
     width: 100%;
